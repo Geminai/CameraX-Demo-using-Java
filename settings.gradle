@@ -1,0 +1,2 @@
+rootProject.name = "CameraX Example Using Java"
+include ':app'
